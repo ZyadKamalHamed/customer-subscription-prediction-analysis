@@ -6,7 +6,7 @@
 
 This project tackles the business-critical challenge of predicting whether customers will subscribe to a service based on historical marketing data. Using KNIME Analytics Platform, I implemented and compared five classification algorithms to identify the optimal approach for customer targeting and marketing strategy optimization.
 
-**Key Achievement:** Random Forest model achieved **96% validation accuracy** and secured **top 25% placement** in Kaggle competition (0.62658 score)
+**Key Achievement:** Random Forest model achieved **96% validation accuracy** and secured **top 15% placement** in Kaggle competition (0.62658 score)
 
 ## 📊 Dataset Information
 
@@ -102,8 +102,9 @@ customer-subscription-prediction/
 │   ├── Assignment3UnknownDataset.csv (test data)
 │   └── sample_predictions.csv (Kaggle submission)
 ├── workflows/
-│   ├── decision_tree_workflow.png
+│   ├── Decision_tree_workflow.png
 │   ├── random_forest_workflow.png
+│   ├── K_nearest_neighbour_workflow.png
 │   ├── svm_optimization_workflow.png
 │   └── neural_network_workflow.png
 ├── results/
