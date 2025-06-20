@@ -98,23 +98,18 @@ Random Forest attribute statistics revealed the most predictive features for sub
 customer-subscription-prediction/
 ├── README.md
 ├── data/
-│   ├── Assignment3MarketingDataset.csv (training data)
 │   ├── Assignment3UnknownDataset.csv (test data)
+│   ├── Assignment3MarketingDataset.csv (training data)
 │   └── sample_predictions.csv (Kaggle submission)
-├── workflows/
-│   ├── Decision_tree_workflow.png
-│   ├── random_forest_workflow.png
-│   ├── K_nearest_neighbour_workflow.png
-│   ├── svm_optimization_workflow.png
-│   └── neural_network_workflow.png
-├── results/
-│   ├── model_performance_comparison.png
-│   ├── roc_curves/
-│   └── confusion_matrices/
 ├── docs/
 │   └── full_analysis_report.pdf
-└── knime_workflows/
-    └── (KNIME workflow files - .knwf)
+├── workflows/
+│   ├── Decision_tree_workflow.png
+│   ├── K_nearest_neighbour_workflow.png
+│   └── neural_network_workflow.png
+│   ├── random_forest_workflow.png
+│   ├── svm_optimization_workflow.png
+
 ```
 
 ## 🎯 Business Applications
